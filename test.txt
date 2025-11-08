@@ -1,2 +1,4 @@
 create a page in pages folder follow this figma design to integrate the page. Only use the tailwind css for styling.Download the images in /public/images where required
 https://www.figma.com/design/053PKJHY6E3OIzjbeYCiyV/Expona-Test?node-id=3-14&t=tihTAQKKTmf6WeeQ-1
+
+test
